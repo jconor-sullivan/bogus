@@ -1,0 +1,7 @@
+GOALS
+1. To become comfortable with Python -- I've been very slowly going through a Python cert via coursera and due to other things getting in the way, I keep losing track of my progress and do not practice enough. I hope to change that as more practice is required for this class.
+
+2. I work as a technical content editor and writer; but mainly, my focus is on very boring stuff like psychometrics and assessment outcomes because I work at a boring educational research organization. I would like to have a stronger grounding in software documentation methods, and understand the steps to creating software better.
+
+3. I want to begin the process of creating a portfolio of creative digital work that I can expand upon after this class. I hope to learn enough in this class that I can start new projects on my own and tinker with them in my spare time.
+TESTING
